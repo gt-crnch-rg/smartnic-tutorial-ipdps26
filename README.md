@@ -39,9 +39,9 @@ Please note that tutorials are open to IPDPS 2026 attendees.
 | 10:00-10:30 | **BREAK** | |
 | 10:30-11:15 | Infrastructure SW | DOCA and P4 frameworks |
 | 11:15-12:00 | Hands-on | DOCA and P4 demo |
-| 12:00-1:00 | **LUNCH** | |
-| 1:00-1:45 | HPC Programming | MPI collective offload, OpenMP offload |
-| 1:45-2:30 | Hands-on HPC | OpenMP offload and MPI demo |
+| 12:00-1:30 | **LUNCH** | |
+| 1:30-2:15 | HPC Programming | MPI collective offload, OpenMP offload |
+| 2:15-2:30 | Hands-on HPC | OpenMP offload and MPI demo |
 | 2:30-3:00 | Storage Acceleration | Discussion of use case for SmartNICs with storage systems for AI |
 | 3:00-3:30 | **BREAK** | |
 | 3:30-3:35 | Tutorial Survey | |
