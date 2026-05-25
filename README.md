@@ -8,9 +8,9 @@ Tutorial at IPDPS 2026
 
 ![BlueField 3 SmartNIC](https://github.com/gt-crnch-rg/smartnic-tutorial-sc25/blob/2b33a3f47e94bf85083d54571c9a110bd97f93bc/fig/smartnic_bf3.jpg)
 
-## Mentimeter Audience Survey
+## Audience Tutorial Survey
 
-Please take our survey using the link shared during the tutorial session.
+Please take our brief survey on how we can improve the tutorial at [this form](https://forms.office.com/r/Bt1t3eN53T).
 
 ## Presenters
 
@@ -34,27 +34,27 @@ Please note that tutorials are open to IPDPS 2026 attendees.
 | Time | Topic | Details |
 |------|-------|---------|
 | 8:30-8:40 | Introduction | Attendee Survey |
-| 8:40-9:20 | Communication Offloading | Data offloading (CPU→GPU), SmartNIC overview, examples (DPUs, IPUs), concepts: packet processing, computation offloading |
-| 9:20-10:00 | SmartNIC Use Cases | Packet processing, HPC offload, AI/gRPC, cyber-security |
+| 8:40-9:20 | Communication Offloading | SmartNIC overview, DPU examples, DPU programming models |
+| 9:20-10:00 | SmartNIC Use Cases | Packet processing, cyber-security, AI/HPC |
 | 10:00-10:30 | **BREAK** | |
 | 10:30-11:15 | Infrastructure SW | DOCA and P4 frameworks |
 | 11:15-12:00 | Hands-on | DOCA and P4 demo |
 | 12:00-1:00 | **LUNCH** | |
 | 1:00-1:45 | HPC Programming | MPI collective offload, OpenMP offload |
-| 1:45-2:30 | Hands-on HPC | MPI and OpenMP demo |
-| 2:30-3:00 | Storage Acceleration | Vendor use cases, NVMe offload, Virtio-FS, microservice offload (checksums, erasure coding) |
+| 1:45-2:30 | Hands-on HPC | OpenMP offload and MPI demo |
+| 2:30-3:00 | Storage Acceleration | Discussion of use case for SmartNICs with storage systems for AI |
 | 3:00-3:30 | **BREAK** | |
-| 3:30-4:00 | Future Uses | AI acceleration, quantum networking, TBD |
-| 4:00-4:05 | Tutorial Survey | |
-| 4:05-5:00 | Hands-on | Added demos |
+| 3:30-3:35 | Tutorial Survey | |
+| 3:35-4:00 | Additional Application Demos and Discussions | Machine Learning, Cybersecurity, Future Use Cases |
+| 4:00-5:00 | Continued Hands-on Activities | Added demos and hands-on time |
 
 Conference schedule reference: [IPDPS 2026 At-a-Glance Program](https://ssl.linklings.net/conferences/ipdps/ipdps2026_program/views/at_a_glance.html)
 
 ## Hands-on Examples
 
-Login instructions for the hands-on sessions will be posted before the tutorial.
+See the hands-on login information at this [Google Doc](https://docs.google.com/document/d/1VWvWfcDN3IV7K_ObqXnFvV-aCfes6OoldXtpO5862Jw/edit?usp=sharing)
 
-The following topics will be covered via selected hands-on modules using the [FABRIC testbed](https://fabric-testbed.net/) and [Rogues Gallery testbed](https://crnch-rg.cc.gatech.edu/).
+The following topics will be covered via selected hands-on modules using the [FABRIC testbed](https://fabric-testbed.net/) and [Netlab testbed](https://research.cec.sc.edu/cyberinfra/cybertraining).
 
 - MPI and OpenMP offloading patterns for SmartNIC-enabled applications
 - In-line packet processing frameworks such as P4
@@ -63,4 +63,4 @@ The following topics will be covered via selected hands-on modules using the [FA
 
 ## Slides
 
-Handouts/slides for IPDPS 2026 tutorials will be made available to registered attendees prior to the conference.
+Handouts/slides for IPDPS 2026 tutorials will be posted here near the conclusion of the tutorial.
