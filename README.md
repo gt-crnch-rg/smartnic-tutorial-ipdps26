@@ -2,7 +2,7 @@
 
 Tutorial at IPDPS 2026
 
-**Held on**: Monday, May 25, 8:30 AM - 12:00 PM and 1:30 PM - 5:00 PM CDT; Room J
+**Held on**: Monday, May 25, 8:30 AM - 12:00 PM and 1:30 PM - 5:00 PM CDT; Room J (4th floor of the Marriott hotel)
 
 [Event website and Program](https://www.ipdps.org/ipdps2026/2026-tutorials.html)
 
