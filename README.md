@@ -10,7 +10,7 @@ Tutorial at IPDPS 2026
 
 ## Audience Tutorial Survey
 
-Please take our brief survey on how we can improve the tutorial at [this form](https://forms.office.com/r/Bt1t3eN53T).
+The audience survey is now closed. 
 
 ## Presenters
 
@@ -52,7 +52,7 @@ Conference schedule reference: [IPDPS 2026 At-a-Glance Program](https://ssl.link
 
 ## Hands-on Examples
 
-See the hands-on login information at this [Google Doc](https://docs.google.com/document/d/1VWvWfcDN3IV7K_ObqXnFvV-aCfes6OoldXtpO5862Jw/edit?usp=sharing)
+Hands-on labs were done with specific reservations for this event. Please contact event organizers if you are interested to test out SmartNIC related codes on a supported testbed!
 
 The following topics will be covered via selected hands-on modules using the [FABRIC testbed](https://fabric-testbed.net/) and [Netlab testbed](https://research.cec.sc.edu/cyberinfra/cybertraining).
 
@@ -63,4 +63,4 @@ The following topics will be covered via selected hands-on modules using the [FA
 
 ## Slides
 
-Handouts/slides for IPDPS 2026 tutorials will be posted here near the conclusion of the tutorial.
+See the "slides" folder for slides presented at this tutorial. 
